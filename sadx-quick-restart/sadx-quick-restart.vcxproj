@@ -94,6 +94,6 @@
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
   <Target Name="AfterBuild">
-    <Copy SourceFiles="..\bin\sadx-quick-restart.dll" DestinationFolder="D:\SADX\mods\sadx-quick-restart" />
+    <Copy SourceFiles="..\bin\sadx-quick-restart.dll" DestinationFolder="D:\Kell\SADX\mods\sadx-quick-restart" />
   </Target>
 </Project>
